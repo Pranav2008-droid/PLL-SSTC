@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "GDT") (type "KiCad") (uri "/home/pranavr/scripts/electronics/custom_footprints/GDT.pretty") (options "") (descr ""))
+)
