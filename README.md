@@ -24,3 +24,6 @@ My circuit shows IRFP460s as the full bridge switches, but they are a bit outdat
 
 ## Primary
 Make sure the primary impedance is high enough such that your switches can handle the currents.
+
+## Demo
+Demo of the amplitude modification music played through an attiny interupter: https://www.youtube.com/shorts/cHrE9xm2R9Q
