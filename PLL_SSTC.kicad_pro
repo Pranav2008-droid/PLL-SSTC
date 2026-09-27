@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "PCB/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -661,13 +661,13 @@
         "uuid": "8c453caa-f6c2-401f-80f1-e9d47f91f2af"
       }
     ],
-    "used_designators": "SW1,+12V1-3,T1,U1-8,Q1-18,RV1-5,2.2nF1,D1-10,D13-20,C1-24,J1-6,#PWR1-47,R1-19",
+    "used_designators": "SW1,+12V1-3,#PWR1-49,T1,D1-10,D13-20,U1-8,Q1-18,2.2nF1,RV1-5,C1-25,J1-6,R1-19,R22,Re1",
     "variants": []
   },
   "sheets": [
     [
       "8c453caa-f6c2-401f-80f1-e9d47f91f2af",
-      "custom_SSTC"
+      "PLL_SSTC"
     ]
   ],
   "text_variables": {},

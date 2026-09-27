@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.5"
+      "Version": "10.0.6"
     },
-    "CreationDate": "2026-08-19T12:06:28+05:30"
+    "CreationDate": "2026-09-26T23:33:40-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "custom_SSTC",
-      "GUID": "63757374-6f6d-45f5-9353-54432e6b6963",
+      "Name": "PLL_SSTC",
+      "GUID": "504c4c5f-5353-4544-932e-6b696361645f",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "custom_SSTC-F_Cu.gbr",
+      "Path": "PLL_SSTC-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "custom_SSTC-B_Cu.gbr",
+      "Path": "PLL_SSTC-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "custom_SSTC-F_Paste.gbr",
+      "Path": "PLL_SSTC-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "custom_SSTC-B_Paste.gbr",
+      "Path": "PLL_SSTC-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "custom_SSTC-F_Silkscreen.gbr",
+      "Path": "PLL_SSTC-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "custom_SSTC-B_Silkscreen.gbr",
+      "Path": "PLL_SSTC-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "custom_SSTC-F_Mask.gbr",
+      "Path": "PLL_SSTC-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "custom_SSTC-B_Mask.gbr",
+      "Path": "PLL_SSTC-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "custom_SSTC-Edge_Cuts.gbr",
+      "Path": "PLL_SSTC-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
