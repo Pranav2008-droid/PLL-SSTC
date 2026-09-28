@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "PCB/",
+      "plot": "Gerbers/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
